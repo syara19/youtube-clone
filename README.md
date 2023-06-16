@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tech
+@heroicons \
+axios \
+react-player \
+web-vitals \
+tailwindcss \
+https://rapidapi.com/ytdlfree/api/youtube-v31/ 
+
 ## Available Scripts
 
 In the project directory, you can run:
